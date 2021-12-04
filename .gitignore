@@ -1,0 +1,4 @@
+config/* 
+# <- seluruh file didalam folder "config", termasuk foldernya
+setting.js 
+# <- hanya file "setting.js"
